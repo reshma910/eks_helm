@@ -33,7 +33,7 @@
 	</dependencies>
 
 	<build>
-               <finalName>spring-boot-web</finalName>
+               <finalName>spring-boot-web-1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
